@@ -88,5 +88,24 @@
         End If
     End Sub
 
-
+    Private Sub CheckBox8_CheckedChanged(sender As Object, e As EventArgs) Handles CheckBox8.CheckedChanged
+        Dim ck5 As Boolean
+        Dim ck6 As Boolean
+        Dim ck7 As Boolean
+        Dim ck8 As Boolean
+        ck5 = CheckBox5.Checked
+        ck6 = CheckBox6.Checked
+        ck7 = CheckBox7.Checked
+        ck8 = CheckBox8.Checked
+        If ck8 = True Then
+            CheckBox5.Enabled = False
+            CheckBox6.Enabled = False
+            CheckBox7.Enabled = False
+        Else
+            CheckBox5.Enabled = True
+            CheckBox6.Enabled = True
+            CheckBox7.Enabled = True
+            CheckBox8.Enabled = True
+        End If
+    End Sub
 End Class
