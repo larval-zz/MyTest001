@@ -57,25 +57,25 @@ Partial Class MainForm1
         'ToolStripMenuItem3
         '
         Me.ToolStripMenuItem3.Name = "ToolStripMenuItem3"
-        Me.ToolStripMenuItem3.Size = New System.Drawing.Size(152, 26)
+        Me.ToolStripMenuItem3.Size = New System.Drawing.Size(224, 26)
         Me.ToolStripMenuItem3.Text = "新建方案"
         '
         'ToolStripMenuItem4
         '
         Me.ToolStripMenuItem4.Name = "ToolStripMenuItem4"
-        Me.ToolStripMenuItem4.Size = New System.Drawing.Size(152, 26)
+        Me.ToolStripMenuItem4.Size = New System.Drawing.Size(224, 26)
         Me.ToolStripMenuItem4.Text = "打开方案"
         '
         'ToolStripMenuItem5
         '
         Me.ToolStripMenuItem5.Name = "ToolStripMenuItem5"
-        Me.ToolStripMenuItem5.Size = New System.Drawing.Size(152, 26)
+        Me.ToolStripMenuItem5.Size = New System.Drawing.Size(224, 26)
         Me.ToolStripMenuItem5.Text = "保存方案"
         '
         '退出程序ToolStripMenuItem
         '
         Me.退出程序ToolStripMenuItem.Name = "退出程序ToolStripMenuItem"
-        Me.退出程序ToolStripMenuItem.Size = New System.Drawing.Size(152, 26)
+        Me.退出程序ToolStripMenuItem.Size = New System.Drawing.Size(224, 26)
         Me.退出程序ToolStripMenuItem.Text = "退出程序"
         '
         'ToolStripMenuItem2
@@ -88,13 +88,13 @@ Partial Class MainForm1
         'ToolStripMenuItem7
         '
         Me.ToolStripMenuItem7.Name = "ToolStripMenuItem7"
-        Me.ToolStripMenuItem7.Size = New System.Drawing.Size(128, 26)
+        Me.ToolStripMenuItem7.Size = New System.Drawing.Size(224, 26)
         Me.ToolStripMenuItem7.Text = "3333"
         '
         'ToolStripMenuItem8
         '
         Me.ToolStripMenuItem8.Name = "ToolStripMenuItem8"
-        Me.ToolStripMenuItem8.Size = New System.Drawing.Size(128, 26)
+        Me.ToolStripMenuItem8.Size = New System.Drawing.Size(224, 26)
         Me.ToolStripMenuItem8.Text = "4444"
         '
         'ToolStripMenuItem6
@@ -108,13 +108,13 @@ Partial Class MainForm1
         '
         Me.ToolStripMenuItem10.Name = "ToolStripMenuItem10"
         Me.ToolStripMenuItem10.Size = New System.Drawing.Size(224, 26)
-        Me.ToolStripMenuItem10.Text = "22222333"
+        Me.ToolStripMenuItem10.Text = "记事本"
         '
         'ToolStripMenuItem11
         '
         Me.ToolStripMenuItem11.Name = "ToolStripMenuItem11"
         Me.ToolStripMenuItem11.Size = New System.Drawing.Size(224, 26)
-        Me.ToolStripMenuItem11.Text = "4444"
+        Me.ToolStripMenuItem11.Text = "计算器"
         '
         'MainForm1
         '
