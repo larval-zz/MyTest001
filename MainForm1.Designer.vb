@@ -82,8 +82,8 @@ Partial Class MainForm1
         '
         Me.ToolStripMenuItem2.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripMenuItem7, Me.ToolStripMenuItem8})
         Me.ToolStripMenuItem2.Name = "ToolStripMenuItem2"
-        Me.ToolStripMenuItem2.Size = New System.Drawing.Size(68, 24)
-        Me.ToolStripMenuItem2.Text = "22222"
+        Me.ToolStripMenuItem2.Size = New System.Drawing.Size(53, 24)
+        Me.ToolStripMenuItem2.Text = "编辑"
         '
         'ToolStripMenuItem7
         '
@@ -101,19 +101,19 @@ Partial Class MainForm1
         '
         Me.ToolStripMenuItem6.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripMenuItem10, Me.ToolStripMenuItem11})
         Me.ToolStripMenuItem6.Name = "ToolStripMenuItem6"
-        Me.ToolStripMenuItem6.Size = New System.Drawing.Size(68, 24)
-        Me.ToolStripMenuItem6.Text = "11111"
+        Me.ToolStripMenuItem6.Size = New System.Drawing.Size(53, 24)
+        Me.ToolStripMenuItem6.Text = "工具"
         '
         'ToolStripMenuItem10
         '
         Me.ToolStripMenuItem10.Name = "ToolStripMenuItem10"
-        Me.ToolStripMenuItem10.Size = New System.Drawing.Size(164, 26)
+        Me.ToolStripMenuItem10.Size = New System.Drawing.Size(224, 26)
         Me.ToolStripMenuItem10.Text = "22222333"
         '
         'ToolStripMenuItem11
         '
         Me.ToolStripMenuItem11.Name = "ToolStripMenuItem11"
-        Me.ToolStripMenuItem11.Size = New System.Drawing.Size(164, 26)
+        Me.ToolStripMenuItem11.Size = New System.Drawing.Size(224, 26)
         Me.ToolStripMenuItem11.Text = "4444"
         '
         'MainForm1
